@@ -1,5 +1,5 @@
 
-## 🧪  Playwright Login Automation
+## 🧪  Playwright Freelance Demo Website Automation
 
 ## 📌 Overview
 
