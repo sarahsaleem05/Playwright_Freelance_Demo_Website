@@ -1,4 +1,4 @@
-##🧪 Playwright Login Automation
+### 🧪 Playwright Login Automation
 
 ## 📌 Overview
 
@@ -6,11 +6,11 @@ This project automates Login and Logout functionality using Playwright with Java
 
 ## 🚀 Tech Stack
 
-Playwright
+◉ Playwright
 
-JavaScript (Node.js)
+◉ JavaScript (Node.js)
 
-Page Object Model
+◉ Page Object Model
 
 ## TestCovered
 ✅ Login with valid credentials
