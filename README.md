@@ -1,20 +1,20 @@
-##PlaywrightLoginAutomation
+## PlaywrightLoginAutomation
 
-##Overview
+## Overview
 This project automates Login and Logout functionality using Playwright with JavaScript. The framework is built using Page Object Model (POM) for better code maintainability and reusability.
 
-##TechStack
+## TechStack
 Playwright
 JavaScript (Node.js)
 Page Object Model
 
-##TestCovered
+## TestCovered
 ✅ Login with valid credentials
 ✅ Verify Home Page after login
 ✅ Logout from application
 ✅ Verify Sign In page after logout
 
-##SetupAndRun
+## SetupAndRun
 npm install
 npx playwright install
 npx playwright test
@@ -25,14 +25,14 @@ npx playwright test
 ✔ User should successfully logout
 ✔ Sign In page should be displayed again
 
-##BestPracticesImplemented
+## BestPracticesImplemented
 ✔ Page Object Model
 ✔ Reusable methods
 ✔ Proper locator strategy
 ✔ Clean and maintainable code structure
 ✔ Assertions for validation
 
-##FutureEnhancements
+## FutureEnhancements
 🔹 Add Negative Login Test Cases
 🔹 Add Cross Browser Testing
 🔹 Integrate Reporting (Allure / HTML Reports)
