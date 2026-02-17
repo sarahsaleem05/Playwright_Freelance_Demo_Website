@@ -60,5 +60,6 @@ npx playwright test
 🔹 Integrate Reporting (Allure / HTML Reports)
 
 🔹 CI/CD Integration
+
 🔹 Test Data Management
 
